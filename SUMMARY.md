@@ -18,3 +18,4 @@
 * [NXP AIM Kit Firmware Installation Videos](Video_Installation_on_boards.md)
 * [Data Set For NXP AIM](Dataset.md)
 * [Evaluation Platform For Grand Finale](Grand_Finale_Evaluation.md)
+* [Debugging with Foxglove](debugging-with-foxglove-1.md)
